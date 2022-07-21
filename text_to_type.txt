@@ -1,0 +1,2 @@
+python is a high level interpreted general purpose programming language its design philosophy emphasizes code readability with the use of significant indentation python is dynamically typed and garbage collected it supports multiple programming paradigms including structured object oriented and functional programming it is often described as a batteries included language due to its comprehensive standard library rather
+than building all of its functionality into its core python was designed to be highly extensible via modules
