@@ -34,7 +34,7 @@ def timer(count):
 
 
 def start_typing():
-    timer(10)
+    timer(MINUTE)
 
 
 def clear_entry():
